@@ -7,3 +7,10 @@ Christopher D. Manning, 144783904
 Chris Potts, 1741530
 Diyi Yang, 2022168
 Monica Lam, 39682108
+
+# UW NLP faculty.
+Luke Zettlemoyer, 1982950
+Yejin Choi, 1699545
+Noah A. Smith, 144365875
+Panh Koi Wei, 48797476
+Hannaneh Hajishirzi, 2548384
